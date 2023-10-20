@@ -2,7 +2,7 @@ Para usar el script, ejecútalo desde la línea de comandos de la siguiente mane
 
 
 *pdf a word*
-python script.py -pw entrada.pdf salida.docx
+python conversor.py -pw entrada.pdf salida.docx
 
 *word a pdf*
-python script.py -wp entrada.docx salida.pdf
+python conversor.py -wp entrada.docx salida.pdf
